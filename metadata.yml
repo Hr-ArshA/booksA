@@ -1,0 +1,11 @@
+Neuromancer:
+  id: "the-pragmatic-programmer"
+  title: "The Pragmatic Programmer"
+  authors:
+    - "Andrew Hunt"
+    - "David Thomas"
+  language: "en"
+  description: "A book about software craftsmanship."
+  cover: "cover.jpg"
+  file: "book.epub"
+  license: "CC-BY-4.0"
